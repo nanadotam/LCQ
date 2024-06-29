@@ -2,7 +2,7 @@
 -> copied from [here](https://github.com/kdn251/interviews?tab=readme-ov-file)
 My personal LeetCode practice questions &amp; solutions.
 
--> All solutions, explanations, detailed approaches, and implementations in READMEs.
+-> All solutions, explanations, detailed approaches, and implementations in READMEs. [GET MORE INFO (NANA)](https://github.com/akashbansal-cp/Leetcode)
 
 Video
 > solutions to the following interview problems with detailed explanations can be found [here](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g).
