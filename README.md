@@ -1,11 +1,6 @@
 # LCQ
 My personal LeetCode practice questions &amp; solutions.
 
-Great! Let's create your first GitHub repository program for the insertion sort list problem. We'll prepare the README.md file based on the provided information.
-
-### README.md Template:
-
-```markdown
 # Insertion Sort List
 
 This repository contains a Java solution for sorting a singly linked list using the insertion sort algorithm.
@@ -72,18 +67,4 @@ To test the solution, you can use the provided examples or additional test cases
 
 - Your Name
 - Contact Information (optional)
-```
 
-### Next Steps:
-
-1. **Create Repository**: Go to GitHub and create a new repository.
-   
-2. **Initialize with README**: Check the option to initialize the repository with a README.md file.
-   
-3. **Upload Code**: Add your Java implementation (`Solution.java`) for the insertion sort problem to the repository.
-   
-4. **Commit and Push**: Commit your changes and push them to GitHub using Git commands.
-
-5. **Customization**: Feel free to customize the README further based on your preferences or additional information you'd like to include.
-
-Once you've completed these steps, your GitHub repository for the insertion sort list problem will be set up with a detailed README explaining the problem, solution approach, and implementation.
