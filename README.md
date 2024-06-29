@@ -1,6 +1,8 @@
 # LCQ & Interview Prep
 My personal LeetCode practice questions &amp; solutions.
 
+-> All solutions, explanations, detailed approaches, and implementations in READMEs.
+
 Video
 > solutions to the following interview problems with detailed explanations can be found [here](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g).
 <a href="https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g" style="display:block;"><img src="/images/youtube.png?raw=true"></a>
