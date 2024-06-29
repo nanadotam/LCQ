@@ -1,4 +1,5 @@
-# LCQ & Interview Prep
+# LCQ & Interview Prep `TO BE EDITED` 
+-> copied from [here](https://github.com/kdn251/interviews?tab=readme-ov-file)
 My personal LeetCode practice questions &amp; solutions.
 
 -> All solutions, explanations, detailed approaches, and implementations in READMEs.
