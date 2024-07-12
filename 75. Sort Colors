@@ -1,0 +1,22 @@
+```java
+class Solution {
+    public void sortColors(int[] nums) {
+        // in place sort
+        // loop throught the list
+        boolean swapped = true; // intialize boolean to track sort
+        while (swapped == true) {
+            swapped = false;    // change boolean to false when the loop runs
+            for (int i = 0; i < nums.length - 1; i++) {
+                if (nums[i] > nums[i+1]) {
+                    // perform swap
+                    int temp = nums[i];
+                    nums[i] = nums[i+1];
+                    nums[i+1] = temp;  
+                    swapped = true;    // reset swap to true              
+                }
+            }
+        }
+        
+    }
+}
+```
